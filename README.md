@@ -2,11 +2,6 @@
 ![gif](https://raw.githubusercontent.com/biocarl/img/master/drawing_animation/met_dynamic_1.gif)
 
 
-
-<!--
-**biocarl/biocarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ### Welcome to my side 👋
 
 - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `I love Clojure`
@@ -20,6 +15,12 @@
 # gray 
 @@ and some purple thingy. @@
 ```
+
+<!--
+**biocarl/biocarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
 
 Here are some ideas to get you started:
 
